@@ -1,0 +1,78 @@
+.header-nav{
+	border-radius:0;
+	background-color: #655ed6;
+	height:60px;
+}
+.navbar-header{
+	font-size:1.5em;
+	position:relative;
+	left:0;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.navvy{
+	font-size:2em;
+	text-decoration: none;
+	margin-top:5px;
+}
+.navbar-default .navbar-brand{
+	color:black;
+	text-decoration: none;
+}
+.hello{
+	border-color:#101e29;
+	padding-right:10px;
+}
+.navbar-toggle{
+	right:25px;
+}
+.vial{
+	color:black;
+	text-decoration: none;
+	background-color: #f1eb33;
+}
+#my-header{
+	background-color:#f1eb33; 
+	text-align: center;
+}
+a, a:hover{
+	color:black;
+	font-size:1.25em;
+	text-decoration: none;
+}
+a:focus,a:hover{
+	background-color: #f1eb33;
+}
+.navbar-default .navbar-header .navbar-brand:hover{
+	color:black;
+}
+.my-box{
+	border:1px solid black;
+	background-color: #3bd9e0;
+	margin-top:20px;}
+.small{
+	font-size:2em;
+	font-weight: 150%;
+	color:black;
+	margin-bottom:20px;
+	padding-top:20px;
+}
+.large{
+	padding:15px;
+	font-size:1.25em;
+}
+hr{
+	margin:0;
+	color:black;
+}
+.shamu{
+	position:relative;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #150f0f;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #f1eb33;
+}
